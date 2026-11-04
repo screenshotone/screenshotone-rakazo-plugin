@@ -1,0 +1,24 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "screenshotone",
+  "version": "1.0.0",
+  "description": "Capture clean website screenshots and PDFs with ads and cookie banners removed, split long pages into readable slices, extract pages as Markdown, and check ScreenshotOne usage.",
+  "author": {
+    "name": "ScreenshotOne",
+    "email": "support@screenshotone.com",
+    "url": "https://screenshotone.com"
+  },
+  "homepage": "https://screenshotone.com/mcp/",
+  "repository": "https://github.com/screenshotone/screenshotone-rakazo-plugin",
+  "license": "MIT",
+  "keywords": [
+    "screenshotone",
+    "screenshots",
+    "website-screenshots",
+    "full-page-screenshots",
+    "pdf",
+    "markdown",
+    "web-data",
+    "mcp"
+  ]
+}
